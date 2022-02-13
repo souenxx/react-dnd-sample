@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Added touch device support to the official [sortable simple](https://react-dnd.github.io/react-dnd/examples/sortable/simple) of reactdnd.
+
+https://user-images.githubusercontent.com/38451133/153746398-01c192b6-fc73-4585-b96f-728c83e70110.mov
+
 ## Available Scripts
 
 In the project directory, you can run:
